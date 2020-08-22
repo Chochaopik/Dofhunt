@@ -67,6 +67,14 @@ Ainsi que l'**ARTICLE 13 : PROPRIETE INTELLECTUELLE / MARQUES**<br>
 Le logiciel n'entre pas dans les logiciels interdit et n'a pas été à l'heure actuelle interdit par la société Ankama Game.<br>
 Il ne modifie ni le jeu, ni le client, ni la façon de jouer, il est limité et aucun code appartient à Ankama Game.
 
+# Framework
+
+Vous devez avoir la version 4.7.2 de .NET Framework, si toutes les mises à jour sont faites avec windows update vous devriez déjà l'avoir, dans le cas contraire, [https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer](installez le).
+
+# Developpeurs
+
+Si vous voulez travailler sur les sources présentes ici il va vous falloir installer le package Nugget **Newtonsoft.Json.12.0.3**, en cas de difficulté / impossibilité de télécharger le package Nugget, le logiciel .exe inclus la DLL Newtonsoft que vous pouvez directement ajouter en référence au projet.
+
 
 ## License
 
