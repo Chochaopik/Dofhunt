@@ -29,7 +29,7 @@ Ajoutez donc une exception à votre anti virus s'il n'apprécie pas l'applicatio
 Double clique sur un indice permet d'aller directement à sa position<br>
 (Si la case `Travel` est coché alors un `/travel X Y` sera mis en copier/coller)
 
-Pour les non développeurs voici un build: ***[juste ici](https://mega.nz/file/IpFQBYzJ#gP09bVv5uIzhrELGhhzgZNVvRNIjGBcTJBfhJfAwtbs)***
+Pour les non développeurs voici un build: ***[juste ici](https://mega.nz/file/Rxl2US6a#UgcyZ58W2mpWAyzMrRugt5pYfEgUmyK5aaC_QF19C90)***
 
 # Rappel
 Il est déconseillé de télécharger des logiciels tiers inconnus pour votre sécurité et celui de vos comptes en ligne (jeux; banque; réseaux sociaux; etc).
@@ -49,8 +49,8 @@ Les options:<br>
 L'option travel:<br>
 ![travel](https://www.zupimages.net/up/20/34/eogd.png)
 
-Mis à jour visuel:
-![miseajour](https://www.zupimages.net/viewer.php?id=20/34/6yc6.png)
+Mis à jour visuel:<br>
+![miseajour](https://www.zupimages.net/up/20/34/6yc6.png)
 </p></details>
 
 # CGU
