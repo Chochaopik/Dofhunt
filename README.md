@@ -1,9 +1,11 @@
 # Dofhunt
+
 Logiciel d'aide à la chasse aux trésors sur Dofus respectant les ***[CGU d'Ankama Game](https://www.dofus.com/fr/cgu)***.
 
-# !!! Warning !!!
+# /!\ Warning /!\
+
 Le logiciel inclu un `keyboard hook`, le même type de fonction utilisée par les keyloggers pour récupérer vos frappes.<br>
-Dans le cas présent il est utilisé pour faire fonctionner les raccourcis pendant que vous avez le focus sur le jeu.<br>
+Dans le cas présent il est nécessaire pour faire fonctionner les raccourcis pendant que vous avez le focus sur le jeu.<br>
 Il est donc normal que l'anti virus détecte un `keylogger` ou `hook`.<br>
 Ajoutez donc une exception à votre anti virus s'il n'apprécie pas l'application.
 
@@ -29,12 +31,16 @@ Ajoutez donc une exception à votre anti virus s'il n'apprécie pas l'applicatio
 Double clique sur un indice permet d'aller directement à sa position<br>
 (Si la case `Travel` est coché alors un `/travel X Y` sera mis en copier/coller)
 
-Pour les non développeurs voici un build: ***[juste ici](https://mega.nz/file/Rxl2US6a#UgcyZ58W2mpWAyzMrRugt5pYfEgUmyK5aaC_QF19C90)***
+# Build
+
+Pour les non développeurs voici un build: **[juste ici](https://mega.nz/file/Rxl2US6a#UgcyZ58W2mpWAyzMrRugt5pYfEgUmyK5aaC_QF19C90)**
 
 # Rappel
+
 Il est déconseillé de télécharger des logiciels tiers inconnus pour votre sécurité et celui de vos comptes en ligne (jeux; banque; réseaux sociaux; etc).
 
 # Screenshots
+
 <details><summary>Voir les screenshots</summary><p>
   
 Le logiciel:<br>
@@ -69,7 +75,7 @@ Il ne modifie ni le jeu, ni le client, ni la façon de jouer, il est limité et 
 
 # Framework
 
-Vous devez avoir la version 4.7.2 de .NET Framework, si toutes les mises à jour sont faites avec windows update vous devriez déjà l'avoir, dans le cas contraire, [https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer](installez le).
+Vous devez avoir la version 4.7.2 de .NET Framework, si toutes les mises à jour sont faites avec windows update vous devriez déjà l'avoir, dans le cas contraire, [installez le](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer).
 
 # Developpeurs
 
