@@ -10,10 +10,10 @@ Ajoutez donc une exception à votre anti virus s'il n'apprécie pas l'applicatio
 # Raccourcis
 
 **Changer de map:***
-- `CTRL + ➡`
-- `CTRL + ⬅`
-- `CTRL + ⬆`
-- `CTRL + ⬇`
+- `CTRL + ↑`
+- `CTRL + ↓`
+- `CTRL + ←`
+- `CTRL + →`
 
 **Cherche les indices dans les 10 maps de la direction:***
 - `CTRL + 6`
